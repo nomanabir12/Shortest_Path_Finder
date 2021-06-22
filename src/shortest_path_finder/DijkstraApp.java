@@ -17,7 +17,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Hossain_T.I.R
+ * @author Abdullah al noman
  */
 public class DijkstraApp extends Application {
     
